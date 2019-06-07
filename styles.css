@@ -2,3 +2,39 @@
     background-color: #1485FE;
 }
 
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+div{
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+img {
+    width: 300px;
+}
+
+#cienciaDeDatos {
+    background-color: aqua;
+}
+#matematicas {
+    background-color: brown;
+}
+#fisica {
+    background-color: chartreuse;
+}
+#investigacion {
+    background-color: coral;
+}
+#tecnologia {
+    background-color: khaki; 
+}
+#stem {
+    background-color: yellowgreen;
+}
+#ia {
+    background-color: tomato;
+}
